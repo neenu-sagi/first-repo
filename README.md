@@ -1,4 +1,4 @@
 # first-repo
-testing 
+C training repo 
 
-This is a test repo created.
+Exercises from https://techwiki.slb.sky/wiki/New_Grads
