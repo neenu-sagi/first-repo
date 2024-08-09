@@ -45,4 +45,5 @@ A= -10, (2's complement rep of signed 32 bit 11111111111111111111111111110110, w
 A > B
 A > C
 C > B
+The key point is that when assigning a negative number to an unsigned int, the number wraps around to a large positive value because unsigned int cannot represent negative numbers. Instead, the value is treated as if it were subtracted from 2^32, resulting in a large positive number.
 */
